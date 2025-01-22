@@ -1,2 +1,2 @@
 # EmployeeManagement
-A Java + Springboot + React.js + Mysql project to manage employees.
+A Java Springboot + React.js + Mysql project to manage employees.
